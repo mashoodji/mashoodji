@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
-<!-- Hero Banner (Relative Link for Robustness) -->
-<img src="./github_profile_banner.png" width="100%" alt="Mashood Farid - Full-Stack & AI Specialist"/>
+<!-- Hero Banner -->
+<img src="./github_profile_banner.png" width="800" alt="Mashood Farid - Full-Stack & AI Specialist"/>
 
 <br/>
 
@@ -20,17 +20,16 @@
   <a href="mailto:mashoodji7@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mashoodji&label=Profile%20Views&color=00d4ff&style=for-the-badge&labelColor=111111" />
 </p>
 
 ---
 
-### ðŸš€ High-Level Professional Summary
+### &#x1F680; High-Level Professional Summary
 Focused on building high-performance, intelligent applications across **Mobile (Flutter)** and **Web (React/Node.js)**. I specialize in the intersection of premium UI/UX design and scalable AI-powered backends.
 
 ---
 
-### ðŸ› ï¸ Core Tech Garden
+### &#x1F6E0;&#xFE0F; Core Tech Garden
 
 | **Mobile & Frontend** | **Backend & Cloud** | **Intelligence & Tools** |
 | :--- | :--- | :--- |
@@ -40,32 +39,31 @@ Focused on building high-performance, intelligent applications across **Mobile (
 
 ---
 
-### ðŸ“Š Real-Time Performance Analytics
+### &#x1F4CA; Real-Time Performance Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=mashoodji&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashoodji&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false" width="100%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashoodji&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true)
 
 <br/>
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mashoodji&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6347&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="100%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashoodji&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false)
+
+<br/>
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mashoodji&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6347&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
 
 ---
 
-### ðŸŽ¨ Contribution Creative
+### &#x1F3A8; Contribution Creative
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake-dark.svg" width="100%"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake-dark.svg" />
 </picture>
 
 ---
 
-### ðŸ¤ Let's Collaborate
+### &#x1F91D; Let's Collaborate
 *Whether you have a question, a project idea, or just want to say hi, my inbox is always open.*
 
 [**LinkedIn**](https://www.linkedin.com/in/mashood-farid) | [**Email Me**](mailto:mashoodji7@gmail.com)
