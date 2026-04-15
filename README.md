@@ -24,7 +24,7 @@
 
 ---
 
-### &#x1F680; High-Level Professional Summary
+### &#x1F680; Professional Summary
 Focused on building high-performance, intelligent applications across **Mobile (Flutter)** and **Web (React/Node.js)**. I specialize in the intersection of premium UI/UX design and scalable AI-powered backends.
 
 ---
@@ -41,20 +41,14 @@ Focused on building high-performance, intelligent applications across **Mobile (
 
 ### &#x1F4CA; Real-Time Performance Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashoodji&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&hide_border=false&count_private=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashoodji&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&hide_border=false)
-
-<br/>
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mashoodji&theme=tokyonight&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6347&currStreakLabel=00d4ff&sideLabels=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e)
+<!-- Pointing to the locally generated Metrics SVG -->
+<img src="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-metrics.svg" width="100%" alt="Mashood's GitHub Metrics"/>
 
 ---
 
 ### &#x1F3A8; Contribution Creative
 
+<!-- Pointing to the locally generated Snake SVG -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashoodji/mashoodji/output/github-snake.svg" />
